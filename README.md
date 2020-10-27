@@ -1,4 +1,4 @@
-### Hey y'all 👋
+### Hey y'all, I'm Gabriel 👋
 
 * I’m currently learning some **JavaScript** stuff
 * I intend to learn much more about **game development**
