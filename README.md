@@ -1,6 +1,6 @@
 ### Hey y'all, I'm Gabriel 👋
 ###
-* I’m currently learning some **JavaScript** stuff
+* I’m currently learning some **JavaScript** and **.NET** stuff
 * I intend to learn much more about **game development**
 * Feel free to contact: 
 gabrielalves.ifpb@gmail.com
